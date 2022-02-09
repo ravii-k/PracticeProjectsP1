@@ -1,0 +1,6 @@
+I am Good
+He is Good
+You are Good
+appending text into file
+How are you
+I am fine
